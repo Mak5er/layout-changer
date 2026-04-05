@@ -1,3 +1,5 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
+
+Sitemap: https://layout.mak5er.com/sitemap.xml
