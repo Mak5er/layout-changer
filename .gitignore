@@ -10,9 +10,11 @@
 
 # production
 /build
+/dist
 
 # misc
 .DS_Store
+.env
 .env.local
 .env.development.local
 .env.test.local
@@ -21,3 +23,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.idea
+.vscode
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
